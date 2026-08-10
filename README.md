@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Blinking Header for Shivam Mishra -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=%F0%9F%99%8F+Namaste!+I'm+Shivam+Mishra+;%F0%9F%8E%93+1st+Year+B.Tech+%40+Swaminarayan+University;%F0%9F%92%BB+Coding+Gita+Developer+Student;%F0%9F%9A%80+Building+the+Future+with+Code!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9933&center=true&vCenter=true&width=700&lines=%F0%9F%99%8F+Namaste!+I'm+Shivam+Mishra+;%F0%9F%8E%93+1st+Year+B.Tech+%40+Swaminarayan university;%F0%9F%92%BB+Coding+Gita+Developer+Student;%F0%9F%9A%80+Building+the+Future+with+Code!" alt="Typing SVG" />
 
 <p align="center">
   <b>Engineering Student | Code Learner | Tech Enthusiast</b>
