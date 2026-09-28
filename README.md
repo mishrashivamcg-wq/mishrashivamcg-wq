@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2d2a5e&height=200&section=header&text=Shivam%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=CSE%20(AI)%20Student%20%E2%80%A2%20Code%20Learner%20%E2%80%A2%20Open%20Source%20Aspirant&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2d2a5e,100:7c3aed&height=220&section=header&text=Shivam%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Engineering%20Student%20%E2%80%A2%20Code%20Learner%20%E2%80%A2%20Future%20Software%20Engineer&descSize=17&descAlignY=64" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=1st+Year+B.Tech+%E2%80%94+Swaminarayan+University;Coding+Gita+Student+%E2%80%94+Learning+in+Public;Aspiring+Software+Engineer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=1st+Year+B.Tech+CSE+(AI)+%40+Swaminarayan+University;Learning+C%2FC%2B%2B+%7C+Python+%7C+Web+Dev+%7C+DSA;Building+in+public%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="typing" />
+
+<br/><br/>
+
+![Views](https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mishrashivamcg-wq?label=FOLLOWERS&style=for-the-badge&logo=github&color=7c3aed)
+![Status](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-10b981?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST-2026-f59e0b?style=for-the-badge)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mishrashivamcg-wq?label=FOLLOWERS&style=for-the-badge&logo=github&color=7c3aed)
-![Open To](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-10b981?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST%202026-READY-f59e0b?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EDIT-YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra.shivam.cg@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BicooD9W5h/)
 
 <br/>
 
@@ -21,70 +27,29 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="70%">
-
-🎓 **1st Year B.Tech CSE (Artificial Intelligence)** @ Swaminarayan University, Kalol, Gujarat
-
-💻 **Student @ Coding Gita** (CGxSU Semester 1)
-
-🧠 Learning **C/C++ • Python • Git & GitHub • HTML/CSS/JavaScript**
-
-🧩 Solving DSA problems on **LeetCode**: EDIT: XX problems solved
-
-🚀 Preparing for **Open Source** (Hacktoberfest 2026)
-
-💡 Passionate about **DSA • Full-Stack Web Development • AI • Software Engineering**
-
-📧 [mishra.shivam.cg@gmail.com](mailto:mishra.shivam.cg@gmail.com)
-
-💬 *"I'm a beginner today, but I build and learn every single day."*
-
-</td>
-<td width="30%" align="center">
-
-<pre>
- ┌──────────────┐
- │ while(alive) │
- │ {            │
- │   learn();   │
- │   code();    │
- │   repeat();  │
- │ }            │
- └──────────────┘
-</pre>
-
-</td>
-</tr>
-</table>
+```python
+class Shivam:
+    name       = "Shivam Mishra"
+    college    = "Swaminarayan University, Kalol"
+    course     = "B.Tech CSE (AI) - 1st Year"
+    bootcamp   = "Coding Gita"
+    learning   = ["C/C++", "Python", "Git & GitHub", "HTML/CSS/JS", "DSA"]
+    passions   = ["Full-Stack Web Dev", "DSA", "AI", "Software Engineering"]
+    goal       = "Master coding skills & build high-impact tech projects"
+    contact    = "mishra.shivam.cg@gmail.com"
+```
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EDIT-YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishra.shivam.cg@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BicooD9W5h/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishrashivamcg-wq)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<!-- EDIT: Only add TRUE things. Send me your real ones and I will add them. -->
+## 🎯 Current Focus
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">🎓<br/><b>Coding Gita</b><br/><sub>Enrolled Student<br/>CGxSU Semester 1</sub></td>
-<td align="center" width="25%">🧩<br/><b>LeetCode</b><br/><sub>EDIT: XX Problems<br/>Solved</sub></td>
-<td align="center" width="25%">🔧<br/><b>Git & GitHub</b><br/><sub>Course Completed<br/>Notes Published</sub></td>
-<td align="center" width="25%">🎯<br/><b>Next Goal</b><br/><sub>First Hackathon<br/>First Merged PR</sub></td>
+<td align="center" width="25%"><h3>🧠</h3><b>DSA</b><br/><sub>Arrays, strings, recursion, sorting</sub></td>
+<td align="center" width="25%"><h3>🌐</h3><b>Web Dev</b><br/><sub>Responsive sites with HTML, CSS, JS</sub></td>
+<td align="center" width="25%"><h3>🐍</h3><b>Python & AI</b><br/><sub>Foundations for machine learning</sub></td>
+<td align="center" width="25%"><h3>🔀</h3><b>Open Source</b><br/><sub>Git workflow & first pull requests</sub></td>
 </tr>
 </table>
 </div>
@@ -95,67 +60,53 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python&perline=8" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" /><br/><br/>
 
-**💻 Programming Languages**
+**Web**<br/>
+<img src="https://skillicons.dev/icons?i=html,css" /><br/><br/>
 
-<br/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=8" />
-
-**🌐 Web Development**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
-
-**🧰 Tools & Workflow**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,mongodb&perline=8" />
-
-**🌱 Learning Next**
+**Learning Next**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql" />
 
 </div>
 
 ---
 
-## ⚡ What I'm Building
+## 🗺️ My Journey
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%"><b>🧠 DSA</b><br/><sub>Arrays, strings, recursion, sorting and problem solving</sub></td>
-<td align="center" width="25%"><b>🌐 WEB PROJECTS</b><br/><sub>Responsive websites with HTML, CSS and JavaScript</sub></td>
-<td align="center" width="25%"><b>🐍 PYTHON & AI</b><br/><sub>Building strong foundations for machine learning</sub></td>
-<td align="center" width="25%"><b>🔀 GIT WORKFLOW</b><br/><sub>Branches, pull requests and team collaboration</sub></td>
-</tr>
-</table>
-</div>
+| Stage | Milestone | Status |
+|:-----:|-----------|:------:|
+| 🎓 | Joined Swaminarayan University (B.Tech CSE - AI) | ✅ |
+| 💻 | Started Coding Gita bootcamp | ✅ |
+| 🔧 | Learned Git & GitHub (CGxSU Semester 1 notes) | ✅ |
+| 🧩 | Started solving problems on LeetCode | ✅ |
+| 🌍 | First open-source pull request (Hacktoberfest 2026) | 🔜 |
+| 🚀 | Build & deploy first full web project | 🔜 |
+| 🏆 | First hackathon | 🔜 |
 
 ---
 
-## 🌍 Open Source: Contribution Log
+## 📚 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [CGxSU Semester 1](https://github.com/mishrashivamcg-wq) | Git & GitHub course notes and assignments | Git, Markdown |
+| EDIT: Project 2 | One line about it | C++ |
+| EDIT: Project 3 | One line about it | HTML, CSS, JS |
+
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<pre>
-────────────────────────────────────────────────
-      COMMUNITY & COLLABORATION  ·  2026
-────────────────────────────────────────────────
-   STATUS: JUST STARTED  ·  TARGET: HACKTOBERFEST
-────────────────────────────────────────────────
-</pre>
+<img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
-
-- [x] Learned Git, branching and pull requests
-- [ ] Find "good first issue" repos
-- [ ] Open my first pull request
-- [ ] Get my first PR merged 🎉
-
-<!-- EDIT: When you get a merged PR, add it here with a link. -->
 
 ---
 
@@ -163,33 +114,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/BicooD9W5h?theme=dark&font=Fira%20Code&ext=heatmap" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishrashivamcg-wq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashivamcg-wq&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg" />
-</picture>
+<img src="https://leetcard.jacoblin.cool/BicooD9W5h?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode" />
 
 </div>
 
@@ -199,6 +124,6 @@
 
 ⭐ *If you like my work, drop a star on my repos!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2a5e,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d2a5e,100:0d1117&height=110&section=footer" width="100%" />
 
 </div>
