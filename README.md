@@ -2,16 +2,16 @@
 <img width="900" height="6" alt="divider" src="https://github.com/user-attachments/assets/a270e39b-9a1e-443a-8b02-6a1b5ab19642" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,35:a78bfa,70:38bdf8,100:34d399&height=250&section=header&text=Shivam%20Mishra&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Engineering%20Student%20%7C%20Code%20Learner%20%7C%20Future%20Software%20Engineer&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2ec4,50:7b2ff7,100:00f5ff&height=260&section=header&text=SHIVAM%20MISHRA&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=%3C%20Engineering%20Student%20%2F%20Code%20Learner%20%2F%20Future%20Software%20Engineer%20%2F%3E&descSize=16&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=760&height=45&lines=Hi+%F0%9F%91%8B+I'm+Shivam%2C+welcome+to+my+profile;1st+Year+B.Tech+CSE+(AI)+%40+Swaminarayan+University;C%2FC%2B%2B+%E2%80%A2+Python+%E2%80%A2+Web+Dev+%E2%80%A2+DSA;Turning+coffee+and+curiosity+into+code+%E2%98%95%F0%9F%9A%80" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=780&height=45&lines=%24+whoami+%E2%86%92+Shivam+Mishra;%24+study+%E2%86%92+B.Tech+CSE+(AI)+%40+Swaminarayan+University;%24+learning+%E2%86%92+C%2FC%2B%2B+%7C+Python+%7C+Web+Dev+%7C+DSA;%24+goal+%E2%86%92+become+a+Software+Engineer+%F0%9F%9A%80" alt="typing" />
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=PROFILE%20VIEWS&color=f472b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mishrashivamcg-wq?label=FOLLOWERS&style=for-the-badge&logo=github&color=a78bfa)
-![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-38bdf8?style=for-the-badge)
-![Open](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-34d399?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=PROFILE%20VIEWS&color=ff2ec4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mishrashivamcg-wq?label=FOLLOWERS&style=for-the-badge&logo=github&color=7b2ff7)
+![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00f5ff?style=for-the-badge&labelColor=0d1117)
+![Open](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-39ff14?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
@@ -22,68 +22,62 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff2ec4,100:7b2ff7&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h2 align="center">🧑‍💻 About Me</h2>
+```bash
+shivam@github:~$ cat about.txt
+
+  NAME       : Shivam Mishra
+  UNIVERSITY : Swaminarayan University, Kalol
+  COURSE     : B.Tech CSE (Artificial Intelligence), 1st Year
+  BOOTCAMP   : Coding Gita
+  LEARNING   : C/C++ | Python | Web Dev | Git & GitHub | DSA
+  PASSION    : Full-Stack Dev, DSA, AI, Software Engineering
+  GOAL       : Master coding skills & build high-impact tech projects
+  CONTACT    : mishra.shivam.cg@gmail.com
+
+shivam@github:~$ status --now
+  [■■■■■■■■■■] Learning in public... 🚀
+```
+
+> [!NOTE]
+> **Who am I?** A first-year engineering student who codes every day, learns in public, and is building towards a career in software.
+
+> [!TIP]
+> **Right now:** practicing DSA on LeetCode, learning web development, and preparing for my first open-source contribution.
+
+> [!IMPORTANT]
+> **Motto:** *"Every expert was once a beginner who refused to quit."*
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:00f5ff&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/about.svg" width="820" alt="About Shivam Mishra" />
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**🌱 Learning next**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
-<details>
-<summary><b>✨ Click to know more about me</b></summary>
-<br/>
-
-- 🎯 **Goal:** Master coding skills and build high-impact tech projects
-- 🧠 **Passionate about:** Full-Stack Web Dev, DSA, AI, Software Engineering
-- 🌱 **Right now:** Practicing DSA, learning web dev, and preparing for open source
-- 📫 **Reach me:** mishra.shivam.cg@gmail.com
-- 💬 **Motto:** *"Every expert was once a beginner who refused to quit."*
-
-</details>
-
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">⚡ What I'm Up To</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%"><h2>🧠</h2><b>DSA</b><br/><sub>Arrays, strings, recursion, sorting</sub></td>
-<td align="center" width="25%"><h2>🌐</h2><b>Web Dev</b><br/><sub>Responsive sites with HTML, CSS, JS</sub></td>
-<td align="center" width="25%"><h2>🐍</h2><b>Python & AI</b><br/><sub>Foundations for machine learning</sub></td>
-<td align="center" width="25%"><h2>🌍</h2><b>Open Source</b><br/><sub>Git workflow & first pull requests</sub></td>
-</tr>
-</table>
-</div>
-
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f5ff,100:39ff14&height=70&section=header&text=%F0%9F%94%A5%20DAILY%20GRIND&fontSize=28&fontColor=0d1117&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode&theme=dark" alt="tech stack" />
-
-<br/><br/>
-
-**🌱 Learning Next**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,mongodb&theme=dark" alt="learning next" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">🔥 100 Days of Code</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
+<img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&theme=neon-dark&hide_border=true" alt="streak" />
 
 | 🧠 DSA | 🌐 Web Dev | 🔀 Git |
 |:------:|:----------:|:------:|
@@ -91,42 +85,18 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:39ff14,100:ffe600&height=70&section=header&text=%F0%9F%97%BA%EF%B8%8F%20ROADMAP&fontSize=28&fontColor=0d1117&animation=fadeIn" width="100%" />
 
-<h2 align="center">🐍 Contribution Snake</h2>
+- [x] 🎓 Joined B.Tech CSE (AI) @ Swaminarayan University
+- [x] 💻 Started Coding Gita bootcamp
+- [x] 🔧 Learned Git & GitHub (CGxSU Semester 1)
+- [x] 🧩 Started LeetCode practice
+- [ ] 🌍 First open-source pull request (Hacktoberfest 2026)
+- [ ] 🌐 Build & deploy my portfolio website
+- [ ] 🏆 Join my first hackathon
+- [ ] 🚀 Build a full-stack project
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">🗺️ My Roadmap</h2>
-
-<div align="center">
-
-| | Milestone | Status |
-|:-:|-----------|:------:|
-| 🎓 | Joined B.Tech CSE (AI) @ Swaminarayan University | ✅ |
-| 💻 | Started Coding Gita bootcamp | ✅ |
-| 🔧 | Learned Git & GitHub (CGxSU Semester 1) | ✅ |
-| 🧩 | Started LeetCode practice | ✅ |
-| 🌍 | First open-source pull request (Hacktoberfest 2026) | 🔜 |
-| 🌐 | Build & deploy my first portfolio website | 🔜 |
-| 🏆 | Join my first hackathon | 🔜 |
-| 🚀 | Build a full-stack project | 🔜 |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">📚 Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffe600,100:ff2ec4&height=70&section=header&text=%F0%9F%93%9A%20PROJECTS&fontSize=28&fontColor=0d1117&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -138,9 +108,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
-<h2 align="center">🧩 LeetCode Progress</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff2ec4,100:7b2ff7&height=70&section=header&text=%F0%9F%A7%A9%20LEETCODE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -148,18 +116,16 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/main/divider.svg" width="100%" height="6" alt="" />
-
 <div align="center">
 
-<h3>🤝 Let's build something together</h3>
+<br/>
 
-I'm always happy to learn, collaborate on student projects and meet fellow developers.
+### 🤝 Let's build something together
 
-**📧 mishra.shivam.cg@gmail.com**
+📧 **mishra.shivam.cg@gmail.com**
 
 ⭐ *If you like my work, drop a star on my repos!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,35:38bdf8,70:a78bfa,100:f472b6&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff2ec4&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
