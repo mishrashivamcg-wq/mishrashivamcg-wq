@@ -9,7 +9,9 @@
 ![Views](https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/mishrashivamcg-wq?label=FOLLOWERS&style=for-the-badge&logo=github&color=7c3aed)
 ![Status](https://img.shields.io/badge/OPEN%20TO-COLLABORATE-10b981?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST-2026-f59e0b?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST-2026-f59e0b?style=for-the-badge)<img width="820" height="380" alt="about" src="https://github.com/user-attachments/assets/95397132-198a-428e-9795-c57cf50db623" />
+<img width="900" height="6" alt="divider" src="https://github.com/user-attachments/assets/0690969a-7494-46d8-b66d-796fa32ab177" />
+
 
 <br/>
 
