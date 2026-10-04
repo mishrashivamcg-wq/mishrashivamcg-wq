@@ -139,16 +139,24 @@ A beginner UI/UX design project created while learning Figma.
 </p>
 
 ---
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/mishrashivamcg-wq">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mishrashivamcg-wq&hide_border=true"
-      alt="GitHub Contribution Activity Graph"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
     />
-  </a>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/contributions.light.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </picture>
 </p>
 
 ---
