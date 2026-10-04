@@ -166,6 +166,28 @@ I'm currently learning and building my first projects.
   <i>Consistency is more important than trying to learn everything at once.</i>
 </p>
 
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="./assets/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+
 ---
 
 # 🤝 Connect With Me
@@ -195,6 +217,8 @@ I'm currently learning and building my first projects.
 <p align="center">
   ⭐ Feel free to explore my repositories and follow my learning journey!
 </p>
+
+
 
 
 
