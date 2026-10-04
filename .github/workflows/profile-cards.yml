@@ -5,14 +5,17 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   profile-cards:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
@@ -20,4 +23,5 @@ jobs:
           username: mishrashivamcg-wq
           cards: overview,contributions,languages
           output-dir: assets
+          themes: light,dark
           commit: true
