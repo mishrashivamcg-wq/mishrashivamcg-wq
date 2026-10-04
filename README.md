@@ -6,67 +6,59 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
 
 <p align="center">
   <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://img.shields.io/github/followers/mishrashivamcg-wq?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://komarev.com/ghpvc/?username=mishrashivamcg-wq&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <a href="https://github.com/mishrashivamcg-wq?tab=followers">
+    <img src="https://img.shields.io/github/followers/mishrashivamcg-wq?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Learning+Software+Development+%F0%9F%92%BB;Building+My+First+Projects+%F0%9F%9A%80;Learning+Python+%7C+JavaScript+%7C+Web+Development;Improving+Every+Day+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Learning+Python+%F0%9F%90%8D;Learning+Web+Development+%F0%9F%8C%90;Building+My+First+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE student
+* 🎓 B.Tech CSE Student
 * 🌱 Currently learning **Python, JavaScript, HTML, CSS, Git & GitHub**
 * 🎨 Exploring **UI/UX Design with Figma**
-* 💻 Interested in **Software Development & Web Development**
+* 💻 Interested in **Software Development and Web Development**
 * 🚀 Currently building my first beginner-friendly projects
-* 🤝 Open to collaborating on beginner-friendly projects
-* 📚 Focused on improving my programming fundamentals
+* 🤝 Looking to collaborate on beginner-friendly projects
+* 📚 Focused on improving programming fundamentals
 * ⚡ Fun fact: **I'm a beginner developer who enjoys learning something new every day.**
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Web Development
+## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,figma,vscode" alt="Languages and Tools"/>
 </p>
 
-### 🎨 Design & Tools
+### 🔭 Currently Exploring
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,vscode" alt="Design and Tools"/>
-</p>
-
-### 📚 Currently Exploring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Currently Exploring"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Currently Exploring"/>
 </p>
 
 ---
 
-## 📈 My Learning Journey
+## 📚 My Learning Journey
 
-```text
-HTML & CSS        █████████████████░░░   Learning
-Python            █████████████████░░░   Learning
-Git & GitHub      ████████████████░░░░   Learning
-JavaScript        ███████████████░░░░░   Learning
-Figma             ███████████████░░░░░   Learning
-React             ███████░░░░░░░░░░░░░   Exploring
-Node.js           █████░░░░░░░░░░░░░░░   Exploring
-```
-
-> 💡 My goal is to build strong fundamentals first and gradually move toward full-stack development.
+| Area            | Status       |
+| --------------- | ------------ |
+| 🐍 Python       | 🟢 Learning  |
+| 🌐 HTML         | 🟢 Learning  |
+| 🎨 CSS          | 🟢 Learning  |
+| ⚡ JavaScript    | 🟢 Learning  |
+| 🔧 Git & GitHub | 🟢 Learning  |
+| 🎨 Figma        | 🟢 Learning  |
+| ⚛️ React        | 🟡 Exploring |
+| 🟢 Node.js      | 🟡 Exploring |
+| 🍃 MongoDB      | 🟡 Exploring |
 
 ---
 
@@ -79,7 +71,7 @@ Node.js           █████░░░░░░░░░░░░░░░  
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&hide_border=true" alt="GitHub Contribution Streak"/>
@@ -87,15 +79,15 @@ Node.js           █████░░░░░░░░░░░░░░░  
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrashivamcg-wq&hide_border=true&area=true&custom_title=Shivam's%20GitHub%20Activity" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrashivamcg-wq" width="95%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mishrashivamcg-wq&theme=flat&no-frame=true&no-bg=true&margin-w=5&row=1&column=7" alt="GitHub Trophies"/>
@@ -103,19 +95,19 @@ Node.js           █████░░░░░░░░░░░░░░░  
 
 ---
 
-## ⭐ My GitHub
+# ⭐ GitHub Overview
 
 <p align="center">
-  <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://img.shields.io/github/stars/mishrashivamcg-wq?style=for-the-badge&label=Total%20Stars" alt="GitHub Stars"/>
-  </a>
-
   <a href="https://github.com/mishrashivamcg-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/📦%20Repositories-View%20All-blue?style=for-the-badge" alt="Repositories"/>
   </a>
 
-  <a href="https://github.com/mishrashivamcg-wq?tab=overview">
-    <img src="https://img.shields.io/badge/Contributions-View%20Activity-success?style=for-the-badge&logo=github" alt="Contributions"/>
+  <a href="https://github.com/mishrashivamcg-wq?tab=stars">
+    <img src="https://img.shields.io/github/stars/mishrashivamcg-wq?style=for-the-badge&label=⭐%20Stars" alt="Stars"/>
+  </a>
+
+  <a href="https://github.com/mishrashivamcg-wq">
+    <img src="https://img.shields.io/badge/📈%20Contributions-View%20Profile-success?style=for-the-badge" alt="Contributions"/>
   </a>
 </p>
 
@@ -123,36 +115,25 @@ Node.js           █████░░░░░░░░░░░░░░░  
 
 # 🚀 Featured Projects
 
-I'm currently building my first projects as I learn software development.
+I'm currently learning and building my first projects.
 
-### 🌐 Web Development Projects
+### 🌐 Web Development
 
-> 🚧 Projects coming soon — I'm currently learning HTML, CSS and JavaScript and building my first projects.
+🚧 **Beginner web projects coming soon...**
 
-### 🐍 Python Projects
+### 🐍 Python
 
-> 🚧 Beginner Python projects will be added here as I complete them.
+🚧 **Python practice and projects coming soon...**
 
-### 🎨 UI/UX Projects
+### 🎨 UI/UX
 
-> 🎨 Figma designs and UI projects will be added here.
+🚧 **Figma UI/UX projects coming soon...**
 
-👉 **[View all my repositories](https://github.com/mishrashivamcg-wq?tab=repositories)**
-
----
-
-# 📚 What I'm Learning
-
-| Area                  | Technologies             |
-| --------------------- | ------------------------ |
-| 🐍 Programming        | Python                   |
-| 🌐 Frontend           | HTML • CSS • JavaScript  |
-| ⚛️ Frontend Framework | React                    |
-| 🖥️ Backend           | Node.js                  |
-| 🗄️ Database          | MongoDB                  |
-| 🔧 Version Control    | Git • GitHub             |
-| 🎨 UI/UX              | Figma                    |
-| 🧠 Problem Solving    | Programming Fundamentals |
+<p align="center">
+  <a href="https://github.com/mishrashivamcg-wq?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+  </a>
+</p>
 
 ---
 
@@ -162,48 +143,44 @@ I'm currently building my first projects as I learn software development.
 * [ ] Improve HTML & CSS
 * [ ] Become comfortable with JavaScript
 * [ ] Build beginner web projects
+* [ ] Improve Git & GitHub skills
 * [ ] Learn React
 * [ ] Learn Node.js
 * [ ] Learn MongoDB
-* [ ] Improve Git & GitHub
 * [ ] Build a strong project portfolio
+* [ ] Practice problem solving
 * [ ] Start contributing to open source
-* [ ] Practice problem solving regularly
 
 ---
 
 # 💡 My Developer Philosophy
 
-> **Learn → Practice → Build → Make Mistakes → Improve → Repeat 🔁**
+<p align="center">
+  <b>Learn → Practice → Build → Make Mistakes → Improve → Repeat 🔁</b>
+</p>
 
-I believe consistency is more important than trying to learn everything at once.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shivam-mishra-78228a427/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:mishra.shivam.cg@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-
-<a href="https://github.com/mishrashivamcg-wq">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
+<p align="center">
+  <i>Consistency is more important than trying to learn everything at once.</i>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shivam-mishra-78228a427/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mishra.shivam.cg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/mishrashivamcg-wq">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
@@ -215,5 +192,6 @@ I believe consistency is more important than trying to learn everything at once.
 <p align="center">
   ⭐ Feel free to explore my repositories and follow my learning journey!
 </p>
+
 
 
