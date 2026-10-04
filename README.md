@@ -96,13 +96,7 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
     />
   </picture>
 </p>
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mishrashivamcg-wq&theme=flat&no-frame=true&no-bg=true&margin-w=5&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
 
 # ⭐ GitHub Overview
 
