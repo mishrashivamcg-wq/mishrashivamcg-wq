@@ -60,8 +60,6 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
 | 🟢 Node.js      | 🟡 Exploring |
 | 🍃 MongoDB      | 🟡 Exploring |
 
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -79,14 +77,13 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
 
 ---
 
-# 📈 Contribution Activity
+# 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrashivamcg-wq" width="95%" alt="GitHub Contribution Activity"/>
+  <a href="https://github.com/mishrashivamcg-wq">
+    <img src="https://img.shields.io/badge/View%20My%20Contribution%20Graph-181717?style=for-the-badge&logo=github" alt="View GitHub Contributions"/>
+  </a>
 </p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
