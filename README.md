@@ -166,28 +166,6 @@ I'm currently learning and building my first projects.
   <i>Consistency is more important than trying to learn everything at once.</i>
 </p>
 
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="./assets/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
 ---
 
 # 🤝 Connect With Me
@@ -206,6 +184,26 @@ I'm currently learning and building my first projects.
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
