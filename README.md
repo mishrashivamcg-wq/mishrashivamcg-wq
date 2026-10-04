@@ -1,78 +1,141 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
+B.Tech CSE Student | Aspiring Software Developer | Building My Skills One Project at a Time 🚀
 </h3>
 
 <p align="center">
   <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mishrashivamcg-wq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/mishrashivamcg-wq?tab=followers">
-    <img src="https://img.shields.io/github/followers/mishrashivamcg-wq?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/mishrashivamcg-wq?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Learning+Python+%F0%9F%90%8D;Learning+Web+Development+%F0%9F%8C%90;Building+My+First+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG"/>
+  <a href="https://github.com/mishrashivamcg-wq?tab=repositories">
+    <img src="https://img.shields.io/github/stars/mishrashivamcg-wq?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student
+* 🎓 I'm a **B.Tech Computer Science & Engineering student**
 * 🌱 Currently learning **Python, JavaScript, HTML, CSS, Git & GitHub**
-* 🎨 Exploring **UI/UX Design with Figma**
-* 💻 Interested in **Software Development and Web Development**
-* 🚀 Currently building my first beginner-friendly projects
-* 🤝 Looking to collaborate on beginner-friendly projects
-* 📚 Focused on improving programming fundamentals
-* ⚡ Fun fact: **I'm a beginner developer who enjoys learning something new every day.**
+* 🎨 Learning **UI/UX design with Figma**
+* 💻 Interested in **Web Development and Software Development**
+* 🚀 Currently building my programming fundamentals through projects and practice
+* 🧠 I enjoy learning by solving problems and creating small projects
+* 🎯 My goal is to become a **skilled Software Developer**
+* 🤝 Open to learning, collaboration and beginner-friendly projects
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,figma,vscode" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### 🔭 Currently Exploring
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Currently Exploring"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🎨 Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-## 📚 My Learning Journey
+## 📚 Currently Learning
 
-| Area            | Status       |
-| --------------- | ------------ |
-| 🐍 Python       | 🟢 Learning  |
-| 🌐 HTML         | 🟢 Learning  |
-| 🎨 CSS          | 🟢 Learning  |
-| ⚡ JavaScript    | 🟢 Learning  |
-| 🔧 Git & GitHub | 🟢 Learning  |
-| 🎨 Figma        | 🟢 Learning  |
-| ⚛️ React        | 🟡 Exploring |
-| 🟢 Node.js      | 🟡 Exploring |
-| 🍃 MongoDB      | 🟡 Exploring |
+```text
+🐍 Python
+⚡ JavaScript
+🌐 HTML & CSS
+🔧 Git & GitHub
+🎨 Figma / UI-UX
+🧠 Problem Solving
+```
 
-# 📊 GitHub Analytics
+### 🔮 Next Technologies
+
+```text
+⚛️ React
+🟢 Node.js
+🍃 MongoDB
+🚀 Full-Stack Development
+```
+
+---
+
+## 🚀 Featured Projects
+
+> I'm currently building my project portfolio. More projects coming soon!
+
+### 🌐 HTML & CSS Project
+
+**My First Web Project**
+
+A beginner-friendly website created while learning HTML and CSS.
+
+**Learning:** HTML • CSS • Responsive Design
+
+🔗 [View Project](https://github.com/mishrashivamcg-wq/YOUR-PROJECT-REPO)
+
+---
+
+### 🐍 Python Mini Projects
+
+A collection of small Python programs created to practice programming fundamentals.
+
+**Learning:** Python • Conditions • Loops • Functions • Problem Solving
+
+🔗 [View Project](https://github.com/mishrashivamcg-wq/YOUR-PYTHON-REPO)
+
+---
+
+### 🎨 Figma UI Project
+
+A beginner UI/UX design project created while learning Figma.
+
+**Learning:** Figma • UI Design • Layout • Components
+
+🔗 [View Project](https://github.com/mishrashivamcg-wq/YOUR-FIGMA-REPO)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrashivamcg-wq&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashivamcg-wq&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mishrashivamcg-wq&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Shivam's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashivamcg-wq&layout=compact&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mishrashivamcg-wq&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=mishrashivamcg-wq"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -80,141 +143,153 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
 ## 📈 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/contributions.dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/contributions.light.svg"
-    />
-    <img
-      src="./assets/contributions.light.svg"
-      width="100%"
-      alt="GitHub Contribution Activity"
-    />
-  </picture>
-</p>
-
-
-# ⭐ GitHub Overview
-
-<p align="center">
-  <a href="https://github.com/mishrashivamcg-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/📦%20Repositories-View%20All-blue?style=for-the-badge" alt="Repositories"/>
-  </a>
-
-  <a href="https://github.com/mishrashivamcg-wq?tab=stars">
-    <img src="https://img.shields.io/github/stars/mishrashivamcg-wq?style=for-the-badge&label=⭐%20Stars" alt="Stars"/>
-  </a>
-
   <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://img.shields.io/badge/📈%20Contributions-View%20Profile-success?style=for-the-badge" alt="Contributions"/>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mishrashivamcg-wq&hide_border=true"
+      alt="GitHub Contribution Activity Graph"
+    />
   </a>
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-I'm currently learning and building my first projects.
-
-### 🌐 Web Development
-
-🚧 **Beginner web projects coming soon...**
-
-### 🐍 Python
-
-🚧 **Python practice and projects coming soon...**
-
-### 🎨 UI/UX
-
-🚧 **Figma UI/UX projects coming soon...**
-
-<p align="center">
-  <a href="https://github.com/mishrashivamcg-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
-  </a>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Strengthen Python fundamentals
-* [ ] Improve HTML & CSS
-* [ ] Become comfortable with JavaScript
-* [ ] Build beginner web projects
-* [ ] Improve Git & GitHub skills
-* [ ] Learn React
-* [ ] Learn Node.js
-* [ ] Learn MongoDB
-* [ ] Build a strong project portfolio
-* [ ] Practice problem solving
-* [ ] Start contributing to open source
-
----
-
-# 💡 My Developer Philosophy
-
-<p align="center">
-  <b>Learn → Practice → Build → Make Mistakes → Improve → Repeat 🔁</b>
-</p>
-
-<p align="center">
-  <i>Consistency is more important than trying to learn everything at once.</i>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shivam-mishra-78228a427/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:mishra.shivam.cg@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/mishrashivamcg-wq">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/mishrashivamcg-wq/mishrashivamcg-wq/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and follow my learning journey!
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mishrashivamcg-wq&theme=flat&no-frame=true&margin-w=10"
+    alt="GitHub Profile Trophies"
+  />
 </p>
+
+---
+
+## 📈 My Learning Journey
+
+```text
+2026
+ │
+ ├── 🎓 Started B.Tech CSE
+ │
+ ├── 🐍 Python Fundamentals
+ │      ├── Variables
+ │      ├── Data Types
+ │      ├── Conditions
+ │      ├── Loops
+ │      └── Problem Solving
+ │
+ ├── 🌐 Web Development
+ │      ├── HTML
+ │      ├── CSS
+ │      └── JavaScript
+ │
+ ├── 🔧 Git & GitHub
+ │      ├── Repositories
+ │      ├── Commits
+ │      ├── Branches
+ │      └── Collaboration
+ │
+ ├── 🎨 Figma / UI-UX
+ │
+ └── 🚀 Next → React → Node.js → MongoDB
+```
+
+---
+
+## 🎯 My Goals
+
+* [ ] Build my first 5+ solid projects
+* [ ] Become confident in Python
+* [ ] Become strong in JavaScript
+* [ ] Build responsive websites
+* [ ] Learn React
+* [ ] Learn Node.js
+* [ ] Learn MongoDB
+* [ ] Participate in hackathons
+* [ ] Contribute to open source
+* [ ] Build a strong GitHub portfolio
+* [ ] Get my first internship
+* [ ] Become a professional Software Developer
+
+---
+
+## 💡 What I'm Working On
+
+```text
+📌 Improving programming fundamentals
+📌 Practicing Python problems
+📌 Building HTML/CSS websites
+📌 Learning JavaScript
+📌 Understanding Git & GitHub
+📌 Creating UI designs in Figma
+📌 Building projects for my portfolio
+```
+
+---
+
+## 📌 My Developer Philosophy
+
+> Learn → Practice → Build → Make Mistakes → Improve → Repeat 🚀
+
+I believe that consistency is more important than trying to learn everything at once.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shivam-mishra-78228a427/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/mishrashivamcg-wq">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+
+<a href="mailto:mishra.shivam.cg@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+</a>
+
+</p>
+
+📧 **Email:** `mishra.shivam.cg@gmail.com`
+
+💼 **LinkedIn:** [Shivam Mishra](https://www.linkedin.com/in/shivam-mishra-78228a427/)
+
+🐙 **GitHub:** [mishrashivamcg-wq](https://github.com/mishrashivamcg-wq)
+
+---
+
+## ⚡ Fun Fact
+
+```text
+I'm a beginner today,
+but I'm building the skills to become a developer tomorrow. 🚀
+```
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
 
 
 
