@@ -77,12 +77,24 @@ B.Tech CSE Student | Aspiring Software Developer | Beginner Developer
 
 ---
 
-# 📈 My GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/mishrashivamcg-wq">
-    <img src="https://img.shields.io/badge/View%20My%20Contribution%20Graph-181717?style=for-the-badge&logo=github" alt="View GitHub Contributions"/>
-  </a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/contributions.light.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
+  </picture>
 </p>
 # 🏆 GitHub Trophies
 
